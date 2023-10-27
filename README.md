@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
 - Web page URL: https://jeremyt34t34t34.github.io/portfolio/
@@ -30,7 +30,7 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 - Valuing constructive feedback to refine data storytelling techniques.
 
 
-# Portflio
+# Portfolio
 
 ## Assignment:
 
