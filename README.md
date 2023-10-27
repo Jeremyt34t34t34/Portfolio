@@ -17,15 +17,15 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 - Developing the ability to craft engaging and persuasive narratives with data.
 - Communicating insights effectively to both technical and non-technical audiences.
 
-3.Practical Application of Theories
+3. Practical Application of Theories
 - Applying theoretical knowledge to real-world scenarios and case studies.
 - Enhancing skills in data-driven storytelling for business decisions.
 
-4.Ethical Considerations in Data Presentation
+4. Ethical Considerations in Data Presentation
 - Learning about the ethics of data representation.
 - Ensuring integrity and avoiding misleading interpretations in data storytelling.
 
-5.Peer Learning and Feedback
+5. Peer Learning and Feedback
 - Engaging with fellow students for idea sharing and collaborative learning.
 - Valuing constructive feedback to refine data storytelling techniques.
 
