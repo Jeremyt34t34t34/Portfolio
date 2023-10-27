@@ -1,7 +1,7 @@
 # portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: https://jeremyt34t34t34.github.io/portfolio/
 - This repository: https://github.com/Jeremyt34t34t34/portfolio/
 
   
