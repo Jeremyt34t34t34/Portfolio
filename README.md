@@ -32,7 +32,7 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 
 # Portfolio
 
-## Assignment: [Visualizing government debt](Visualizing_government_debt)
+## Assignment: [Visualizing government debt]  (Visualizing_government_debt)
 
 ## Assignment 3&4:
 
