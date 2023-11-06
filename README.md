@@ -34,6 +34,29 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 
 ## Assignment: [Visualizing government debt](Visualizing-government-debt.md)
 ### First chart: [government debt visualization](chart.html)
+<div class='tableauPlaceholder' id='viz1699249448491' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Dashboard 1' src='https://public.tableau.com/static/images/Bo/Book1_16992494365390/Dashboard1/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='Book1_16992494365390/Dashboard1' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/Bo/Book1_16992494365390/Dashboard1/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='zh-CN' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
 
 
 
