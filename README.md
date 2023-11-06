@@ -33,7 +33,7 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 # Portfolio
 
 ## Assignment: [Visualizing government debt](Visualizing-government-debt.md)
-### First chart: [government debt visualization](chart.html)
+### 1.First chart: [government debt visualization](chart.html)
 ### 2. Heatmap: [Heatmap](heatmap.html)
 <div class='tableauPlaceholder' id='viz1699249448491' style='position: relative'>
   <noscript>
@@ -58,6 +58,8 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
     <param name='filter' value='publish=yes' />
   </object>
 </div>
+
+### 3. Third  Visualization: [map](map.html)
 
 
 
