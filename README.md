@@ -34,17 +34,7 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 
 ## Assignment: [Visualizing government debt](Visualizing-government-debt.md)
 ### First chart: [government debt visualization](chart.html)
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1699247250669');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  if (divElement.offsetWidth) {
-    vizElement.style.width='100%';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  }                   
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+
 
 
 ## Assignment 3&4:
