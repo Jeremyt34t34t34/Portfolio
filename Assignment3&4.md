@@ -9,4 +9,4 @@ In areas where the data points are densely packed, it might be difficult to dist
 The visualization shows a snapshot in time and does not provide any trend data, which would be helpful to see if patterns are stable, increasing, or decreasing over time.
 
 # Step 2: My data visualization sketch
-
+![image](My data visualization sketch.jpg)
