@@ -1,4 +1,4 @@
-# Step 1: Choosing Data Visualization
+# Step 1&2: Choosing Data Visualization
 [Average Age of Women at First Marriage by State](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
 ## Reason for Choosing this data visualization
 ### Complexity for General Audience: 
@@ -8,7 +8,7 @@ In areas where the data points are densely packed, it might be difficult to dist
 ### No Temporal Dimension:
 The visualization shows a snapshot in time and does not provide any trend data, which would be helpful to see if patterns are stable, increasing, or decreasing over time.
 
-# Step 2: My data visualization sketch
+# Step 3: My data visualization sketch
 ![My data visualization](My_data_visualization_sketch.jpg)
 ## The reason why I choose this visualization approach:
 ### Geographical Context: 
@@ -18,7 +18,7 @@ The use of varying dot sizes to represent the size of the data (presumably the a
 ### Visual Appeal:
 A map with data points can be visually engaging and can draw the viewer's attention more effectively than a graph or chart.
 
-## Feedback from others
+# Step 4: Feedback from others
 - Can you tell me what you think this is?
   
   My dad: Ah, this looks like one of those newfangled data maps, doesn't it? They're all the rage in the academies and think tanks, I hear.
@@ -32,10 +32,20 @@ A map with data points can be visually engaging and can draw the viewer's attent
   My elder sister: It's a bit confusing, though, because there's no scale for the dot sizes. How much bigger is a dot for 30 years old compared to one for 25? It's not clear.
 
 
-## Final version of the work
+# Step 5: Final version of the work
 I referred to their opinions and the shortcomings of my sketch, so I made the following adjustments to the final version of the work:
 ## Clarity and Avoidance of Overlap:
-I ‘ve chosen a clear and legible way to display each state by hax map, which immediately tells the viewer that this is a map related to the United States. M哦热哦ever，Using hexbins avoids the problem of overlapping data points that can occur in dot maps, especially in areas with many data points close together.
+I ‘ve chosen a clear and legible way to display each state by hax map, which immediately tells the viewer that this is a map related to the United States. Moreover，Using hexbins avoids the problem of overlapping data points that can occur in dot maps, especially in areas with many data points close together.
+## Legend and Scale:
+Although my sister mentioned the lack of a scale for dot sizes, the color scale on the right provides a reference for interpreting the average age values, which is a crucial element in any data visualization.
+## Inclusion of Time Frames:
+I've included checkboxes for different time frames, which suggests that the viewer can select different periods to see how the average age has changed over time. This adds a dynamic element to the visualization.
+
+
+
+
+
+
 
 
   
