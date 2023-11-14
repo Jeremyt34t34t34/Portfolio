@@ -8,6 +8,7 @@ In areas where the data points are densely packed, it might be difficult to dist
 ### No Temporal Dimension:
 The visualization shows a snapshot in time and does not provide any trend data, which would be helpful to see if patterns are stable, increasing, or decreasing over time.
 
+
 # Step 3: My data visualization sketch
 ![My data visualization](My_data_visualization_sketch.jpg)
 ## The reason why I choose this visualization approach:
@@ -17,6 +18,7 @@ By placing the data points on a map, viewers can immediately see the geographica
 The use of varying dot sizes to represent the size of the data (presumably the average age or the number of records per state) provides an intuitive way to grasp the relative magnitude of the values across states.
 ### Visual Appeal:
 A map with data points can be visually engaging and can draw the viewer's attention more effectively than a graph or chart.
+
 
 # Step 4: Feedback from others
 - Can you tell me what you think this is?
