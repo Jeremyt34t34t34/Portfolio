@@ -20,12 +20,25 @@ A map with data points can be visually engaging and can draw the viewer's attent
 
 ## Feedback from others
 - Can you tell me what you think this is?
+  
   My dad: Ah, this looks like one of those newfangled data maps, doesn't it? They're all the rage in the academies and think tanks, I hear.
   
   My elder sister: Well, it's a map of the United States, and it's got these red dots scattered all over it. Each dot is a different size, and there's writing that says the size of the dots represents the average age of women when they marry for the first time, and it's by state. If you put your finger on one of those dots—hypothetically, of course, since this is just paper—it would tell you the state and the average age there.
 
 - Is there anything you find surprising or confusing?
-- 
+  
+  My dad: I must say, it's a bit unconventional. I'm used to seeing numbers and charts in the newspaper, but this is more visual, isn't it?
+
+  My elder sister: It's a bit confusing, though, because there's no scale for the dot sizes. How much bigger is a dot for 30 years old compared to one for 25? It's not clear.
+
+
+## Final version of the work
+I referred to their opinions and the shortcomings of my sketch, so I made the following adjustments to the final version of the work:
+## Clarity and Avoidance of Overlap:
+I ‘ve chosen a clear and legible way to display each state by hax map, which immediately tells the viewer that this is a map related to the United States. M哦热哦ever，Using hexbins avoids the problem of overlapping data points that can occur in dot maps, especially in areas with many data points close together.
+
+
+  
 
 
 
