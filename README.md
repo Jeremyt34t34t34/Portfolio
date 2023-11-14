@@ -1,8 +1,8 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
-- Web page URL: https://jeremyt34t34t34.github.io/Portfolio/
-- This repository: https://github.com/Jeremyt34t34t34/Portfolio/
+- Web page URL: https://jeremyt34t34t34.github.io/portfolio/
+- This repository: https://github.com/Jeremyt34t34t34/portfolio/
 
   
 # About me
