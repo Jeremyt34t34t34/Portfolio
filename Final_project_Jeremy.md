@@ -1,4 +1,4 @@
 # Outline
 The objective of this project is to delve into the intricate details of crime patterns in New York City, utilizing the rich dataset provided. At its core, the project aims to unearth underlying trends and correlations within the data, such as the frequency and types of crimes, their geographic distribution, and temporal patterns. The goal is to provide actionable insights that could guide policy decisions, enhance public safety, and contribute to academic discourse on urban crime dynamics.
 
-By leveraging data visualization and analytical techniques, this project will bring to light the nuances of urban crime. It's not just about presenting numbers; it's about telling the story of a city through its data, understanding the pulse of urban life, and identifying areas for improvement in public safety and crime prevention strategies.
+By leveraging data visualization and analytical techniques, this project will bring to light the nuances of urban crime. It's not just about presenting numbers; it's about telling the story of a city through its data and identifying areas for improvement in public safety and crime prevention strategies.
