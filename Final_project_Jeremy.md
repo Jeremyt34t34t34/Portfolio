@@ -6,11 +6,23 @@ By leveraging data visualization and analytical techniques, this project will br
 I hope using the way of data visualization revealing the evolving landscape of crime in Boston, with a focus on unearthing patterns, hotspots, and temporal shifts.
 ## Project structure:
 ### Introduction: Setting the Stage
-Introduce the context and significance of crime analysis in Boston.
-### Data Exploration
-Conduct a detailed analysis of crime by type, location, and time using pie chart， lines chart and heatmap.
-### The Bigger Picture: Emerging Insights
-Synthesize findings to provide a comprehensive view of crime trends in Boston.
+High-Level Summary: Exploring Boston's 2022 crime data to reveal trends and patterns, emphasizing the importance of this analysis for public safety and policy formulation.
+### The Story Arc: From Data to insight
+Setup: Presenting Boston's crime situation through data visualization.
+Conflict: Highlighting challenges in crime management, safety issues, and areas of concern.
+Resolution: Suggesting potential solutions and preventive measures based on the analysis.
+### User Stories: Perspectives on Crime
+Policymakers: Identifying resource allocation and policy development needs.
+Residents: Offering insights for personal safety and community awareness.
+Researchers: Providing a basis for further academic study.
+
+### Emerging Insights: Beyond the Numbers
+Synthesizing findings to offer a narrative on Boston's crime dynamics.
+Discussing implications for policy, community engagement, and law enforcement strategies.
+
+### Conclusion: A Call to Action
+Recapitulating key findings.
+Proposing steps for various stakeholders to address crime in Boston.
 
 # Sketch of the project
 ![Sketch](Boston_sketches.jpg)
