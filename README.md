@@ -66,5 +66,5 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 ## Assignment 3 & 4: [Critique by Design with Tableau (MakeoverMonday)](Assignment3&4.md)
 
 
-## Final project
+## Final project: [Final_project](Final_project_Jeremy.md)
 
