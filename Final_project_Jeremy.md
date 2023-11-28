@@ -36,6 +36,8 @@ I plan to use the time, location and the crimes' categories for the data visuali
 # Method and the medium.
 May be I would choose Shorthand or a html file to show all the visualization results in one page for my final project.
 
+[map](Boston_map.html)
+
 
 
 
