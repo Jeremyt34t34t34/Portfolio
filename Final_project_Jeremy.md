@@ -14,15 +14,15 @@ Resolution: Suggesting potential solutions and preventive measures based on the 
 ### User Stories: Perspectives on Crime
 Policymakers: Identifying resource allocation and policy development needs.
 Residents: Offering insights for personal safety and community awareness.
-Researchers: Providing a basis for further academic study.
+Tourists: Giving travelling suggestions to make sure their safety.
 
 ### Emerging Insights: Beyond the Numbers
 Synthesizing findings to offer a narrative on Boston's crime dynamics.
-Discussing implications for policy, community engagement, and law enforcement strategies.
+Discussing implications for policy, community engagement.
 
 ### Conclusion: A Call to Action
 Recapitulating key findings.
-Proposing steps for various stakeholders to address crime in Boston.
+Proposing steps  to address crime in Boston.
 
 # Sketch of the project
 ![Sketch](Boston_sketches.jpg)
@@ -37,7 +37,8 @@ I plan to use the time, location and the crimes' categories for the data visuali
 May be I would choose Shorthand or a html file to show all the visualization results in one page for my final project.
 
 # Part 2
-[map](Boston_map.html)
+## StoryBoarding and Wireframing
+     
 
 
 
