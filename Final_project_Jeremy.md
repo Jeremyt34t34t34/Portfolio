@@ -44,7 +44,7 @@ May be I would choose Shorthand or a html file to show all the visualization res
 ![cp3](sketch-13.jpg)
 ![cp4](sketch-14.jpg)
 ![cp5](sketch-15.jpg)
-![cp6](sketch-16.jpg)
+![cp6](sketch-16.png)
 
 
 ### User Research Protocol
