@@ -70,6 +70,7 @@ Adding context like Narrative flow, guide the readers  through the journey of un
 
 #### Contextualize with Benchmarks: 
 Compare the data to previous years or other cities to provide context that can highlight trends or particular issues of concern.
+![Year](Year.png)
 
 
 
