@@ -38,7 +38,7 @@ May be I would choose Shorthand or a html file to show all the visualization res
 
 # Part 2
 ## StoryBoarding and Wireframing
-     ！[Title](1.png)
+     ！[Title](sketch-10.png)
      
 
 
