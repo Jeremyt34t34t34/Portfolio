@@ -59,6 +59,18 @@ May be I would choose Shorthand or a html file to show all the visualization res
 |*What do you think the purpose of this is?* | Crime Pattern Analysis: By breaking down crime into various categories and analyzing their frequency and timing, the presentation aims to identify patterns that could reveal underlying causes or trends.For example, the heatmap and district analysis can indicate which areas might need more policing or community support. Moreover, The information about high crime areas can be used to advise residents and tourists on safety precautions.|
 |*Who do you think this is for?* | This presentation is likely intended for city officials,  possibly the general public of Boston, and the tourists.|
 |*What is confusing about this?* | Titles and Subtitles: Make sure each chart screams what it's about. Clear, catchy, can't miss it. Narrative Flow: Like a good book, your data should tell a story from start to finish. Guide your readers through the journey of understanding. Break Down 'Other': That 'Other' slice of the pie is like a mystery box. Dive in there, and give us the juicy details. What crimes are hiding in there?|
-| *What would you change?* | Make sure each visualization has a descriptive title that clearly indicates what the viewer is looking at. Ensure that all parts of the graphics, especially the pie chart, have clear legends and labels so that readers can easily understand what each segment represents. After presenting the data, include a section on implications or recommended actions to engage the audience further and prompt a response.
+| *What would you change?* | Clarify Visualization Titles: Make sure each visualization has a descriptive title that clearly indicates what the viewer is looking at. For example, "Top 5 Offense Descriptions" could be more informative. Detailed Legends and Labels: Ensure that all parts of the graphics, especially the pie chart, have clear legends and labels so that readers can easily understand what each segment represents. Contextualize with Benchmarks: Compare the data to previous years or other cities to provide context that can highlight trends or particular issues of concern.Segment the 'Other' Category: Break down the 'Other' category to show more granular details about those offenses, providing a fuller picture of the crime landscape.Call to Action: After presenting the data, include a section on implications or recommended actions to engage the audience further and prompt a response.
+
+### What I need to revise
+#### Clarify Visualization Titles: 
+Make sure that each visualization has a descriptive title that clearly indicates what the viewer is looking at. For example, instead of "Top 5 Offense Descriptions," use a title that provides more informative context.
+
+#### Adding context before the plot
+Adding context like Narrative flow, guide the readers  through the journey of understanding and give them a backstory.
+
+#### Contextualize with Benchmarks: 
+Compare the data to previous years or other cities to provide context that can highlight trends or particular issues of concern.
+
+
 
 
