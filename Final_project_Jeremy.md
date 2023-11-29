@@ -39,7 +39,12 @@ May be I would choose Shorthand or a html file to show all the visualization res
 # Part 2
 ## StoryBoarding and Wireframing
 ![Title](sketch-10.jpg)
-     
+![cp1](sketch-11.jpg)
+![cp2](sketch-12.jpg)
+![cp3](sketch-13.jpg)
+![cp4](sketch-14.jpg)
+![cp5](sketch-15.jpg)
+![cp6](sketch-16.jpg)
 
 
 
