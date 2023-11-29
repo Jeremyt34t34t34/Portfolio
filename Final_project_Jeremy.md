@@ -47,5 +47,10 @@ May be I would choose Shorthand or a html file to show all the visualization res
 ![cp6](sketch-16.jpg)
 
 
+### User Research Protocol
+**Target Audience:** Policymakers, residents, and tourists in Boston.
+**Approach to identifying representative individuals:** Since direct access to my target audiences is limited, we will engage with a diverse proxy group to gather a range of perspectives. This group will comprise: Two students from Heinz College.
 
-
+| Prompt | Feedback |
+| ------ | -------- |
+|*First impressions?* |The presentation "Decoding Crime in Boston: A Data-Driven Approach" seems to be a comprehensive analysis of crime in the city of Boston, utilizing various data visualization tools to convey information. It likely provides a detailed look into crime patterns, frequency, and types, along with geographic analysis to understand regional differences within the city.|
