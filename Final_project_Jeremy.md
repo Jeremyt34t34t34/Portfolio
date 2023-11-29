@@ -56,3 +56,8 @@ May be I would choose Shorthand or a html file to show all the visualization res
 | ------ | -------- |
 |*First impressions?* |The presentation "Decoding Crime in Boston: A Data-Driven Approach" seems to be a comprehensive analysis of crime in the city of Boston, utilizing various data visualization tools to convey information. It likely provides a detailed look into crime patterns, frequency, and types, along with geographic analysis to understand regional differences within the city.|
 |*What do you think the purpose of this is?* | Crime Pattern Analysis: By breaking down crime into various categories and analyzing their frequency and timing, the presentation aims to identify patterns that could reveal underlying causes or trends.For example, the heatmap and district analysis can indicate which areas might need more policing or community support. Moreover, The information about high crime areas can be used to advise residents and tourists on safety precautions.|
+|*Who do you think this is for?* | This presentation is likely intended for city officials,  possibly the general public of Boston, and the tourists.|
+|*What is confusing about this?* | Titles and Subtitles: Make sure each chart screams what it's about. Clear, catchy, can't miss it. Narrative Flow: Like a good book, your data should tell a story from start to finish. Guide your readers through the journey of understanding. Break Down 'Other': That 'Other' slice of the pie is like a mystery box. Dive in there, and give us the juicy details. What crimes are hiding in there?|
+| *What would you change?* |
+
+
