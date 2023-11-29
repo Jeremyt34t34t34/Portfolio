@@ -72,6 +72,12 @@ Adding context like Narrative flow, guide the readers  through the journey of un
 Compare the data to previous years or other cities to provide context that can highlight trends or particular issues of concern.
 ![Year](Year.png)
 
+#### Adding Call to Action
+After presenting the data, include a section on implications or recommended actions to engage the audience further and prompt a response.
+
+### moodboard
+[preview](https://preview.shorthand.com/4kGdbUQgDwCMZZeG)
+
 
 
 
