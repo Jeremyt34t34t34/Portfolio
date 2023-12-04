@@ -95,3 +95,10 @@ Improved the story flow to guide readers smoothly from introduction to conclusio
 Incorporated actionable insights and recommendations, especially for policymakers and community leaders, based on the data findings.
 
 In addition, I considered providing a motive for this story, so that the whole story forms a logical chain.
+
+### Updated Data Source
+1.[Source](https://data.boston.gov/dataset/boston-police-stations): Information of Boston police stations.
+2.[Source](https://police.boston.gov/districts/): Boston area police district
+3.[Source](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/massachusetts.xls): FBI in Massachustts
+4.[Source](https://www.city-data.com/crime/crime-Boston-Massachusetts.html): crime information in Boston
+5.[Source](https://www.neighborhoodscout.com/ma/boston/crime): history crime data
