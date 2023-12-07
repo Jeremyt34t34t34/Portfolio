@@ -16,6 +16,31 @@ Incorporated actionable insights and recommendations, especially for policymaker
 In addition, I considered providing a motive for this story, so that the whole story forms a logical chain.
 
 ### Updated Data Source
+Boston Police Stations Information:
+
+Description: Comprehensive details about police stations in Boston.
+[Source](https://data.boston.gov/dataset/boston-police-stations)
+
+Boston Area Police Districts:
+
+Description: Geographic and operational information on police districts in the Boston area.
+[Source](https://police.boston.gov/districts/)
+
+FBI Crime Data - Massachusetts:
+
+Description: FBI's crime statistics and reports specific to Massachusetts.
+[Source](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/massachusetts.xls)
+
+Crime Information in Boston:
+
+Description: Current and historical data on various types of crimes in Boston.
+[Source](https://www.city-data.com/crime/crime-Boston-Massachusetts.html)
+
+Historical Crime Data:
+
+Description: Archive of crime statistics and trends over the years in Boston.
+[Source](https://www.neighborhoodscout.com/ma/boston/crime)
+
 1.[Source](https://data.boston.gov/dataset/boston-police-stations): Information of Boston police stations.
 
 2.[Source](https://police.boston.gov/districts/): Boston area police district
