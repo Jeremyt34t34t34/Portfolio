@@ -68,4 +68,5 @@ My name is Haipei Zhong, and I am currently a student in the Master of Informati
 
 ## Final project: [Final_project](Final_project_Jeremy.md)
 [Part1 and Part 2](Final_project_Jeremy.md)
+
 [Final Part 3](Part3.md)
