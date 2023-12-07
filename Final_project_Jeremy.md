@@ -106,3 +106,6 @@ In addition, I considered providing a motive for this story, so that the whole s
 4.[Source](https://www.city-data.com/crime/crime-Boston-Massachusetts.html): crime information in Boston
 
 5.[Source](https://www.neighborhoodscout.com/ma/boston/crime): history crime data
+
+### Final presentation
+[Presentation](https://carnegiemellon.shorthandstories.com/decoding-crime-in-boston/index.html)
