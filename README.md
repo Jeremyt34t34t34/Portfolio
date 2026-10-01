@@ -25,6 +25,8 @@ A team project submitted to the **Google Cloud Rapid Agent Hackathon, Elastic Tr
 - Google ADK orchestration of claim extraction, drift analysis, citation discovery, notification, and memory synthesis.
 - Python backend with REST/SSE interfaces and a Next.js dashboard.
 
+**My contribution:** backend and data integration, evidenced by merged upstream [PR #1](https://github.com/gregjones11235/ClaimDrift/pull/1) and [PR #3](https://github.com/gregjones11235/ClaimDrift/pull/3): Elasticsearch-backed BFF integration, OpenAlex citation lookup, cursor-paginated ingestion, bulk writes, and Cloud Run ingestion operations documentation.
+
 **Context:** hackathon team work. The repository contains deployment configurations and reports a deployed demo; current service availability has not been independently verified here. Component descriptions refer to the team system, not sole authorship.
 
 [Code & setup](https://github.com/Jeremyt34t34t34/ClaimDrift) · [Backend](https://github.com/Jeremyt34t34t34/ClaimDrift/tree/main/apps/bff) · [Orchestration code](https://github.com/Jeremyt34t34t34/ClaimDrift/blob/main/agents/supervisor_agent/agent.py)
