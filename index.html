@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Haipei (Jeremy) Zhong — applied AI, data engineering, and FDE-oriented project portfolio.">
+<title>Haipei Zhong · AI & Data Portfolio</title>
+<style>
+:root{color-scheme:light;--ink:#182b35;--muted:#536672;--accent:#00665e;--line:#d9e3e5}
+*{box-sizing:border-box}body{margin:0;background:#f6f8f8;color:var(--ink);font:17px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+main{max-width:1040px;margin:auto;padding:42px 28px 60px}nav{display:flex;gap:24px;flex-wrap:wrap;font-size:14px}
+a{color:var(--accent);text-underline-offset:4px}a:hover{text-decoration-thickness:2px}a:focus-visible{outline:3px solid #c67f13;outline-offset:4px}
+header{padding:64px 0 44px}.eyebrow{font-size:12px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--accent)}h1{font-size:clamp(38px,6vw,64px);letter-spacing:-.045em;line-height:1.1;margin:15px 0}h2{font-size:25px;letter-spacing:-.02em;margin:0 0 20px}h3{font-size:22px;line-height:1.3;margin:12px 0}p{margin:12px 0}.intro{max-width:690px;color:var(--muted);font-size:20px}.role{font-weight:600}
+section{margin:32px 0}.card{background:white;border:1px solid var(--line);border-radius:16px;padding:28px}.feature{border-top:4px solid var(--accent)}.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.tag{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:700}.scope{font-size:14px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}.links{display:flex;gap:18px;flex-wrap:wrap;font-size:15px}.legacy{border-top:1px solid var(--line);padding-top:28px}footer{margin-top:44px;color:var(--muted);font-size:13px}ul{padding-left:22px}
+@media(max-width:640px){main{padding:26px 20px 40px}header{padding:40px 0 26px}.grid{grid-template-columns:1fr}.card{padding:22px}.intro{font-size:18px}}
+</style>
+</head>
+<body>
+<main>
+<nav aria-label="Main navigation"><a href="#projects">Projects</a><a href="#practice">Engineering practice</a><a href="#legacy">Legacy</a><a href="https://github.com/Jeremyt34t34t34">GitHub ↗</a></nav>
+<header><div class="eyebrow">Project portfolio</div><h1>Haipei (Jeremy) Zhong</h1><p class="role">Applied AI · Data Engineering · Forward Deployed Engineering</p><p class="intro">Connecting data, retrieval, and usable interfaces. Explore an educational AI capstone, hands-on engineering coursework, and earlier data storytelling work.</p></header>
+<section id="projects" aria-labelledby="project-title"><h2 id="project-title">Featured project</h2>
+<article class="card feature"><span class="tag">Educational capstone · Python · RAG</span><h3>Biomedical Dataset Discovery Assistant</h3><p>Find public biomedical datasets through normalized GDC and cBioPortal metadata, with source evidence and explicit limitations.</p><ul><li>Constrained keyword retrieval with TF-IDF cosine reranking and optional live OpenAI RAG.</li><li>Streamlit reviewer UI, HTTP API, and a deterministic tool workflow with an inspectable trace.</li><li>Feedback collection and retrieval, answer, and claim evaluation workflows.</li></ul><p class="scope">Study-level metadata; variant-positive patient counts remain unverified. The local workflow uses fixed tool steps. This capstone is not a production cloud deployment.</p><div class="links"><a href="https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant">View repository ↗</a><a href="https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant/blob/main/docs/reviewer_walkthrough.md">Reviewer walkthrough ↗</a><a href="https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant/blob/main/src/retriever.py">Retrieval code ↗</a></div></article></section>
+<section id="practice" aria-labelledby="practice-title"><h2 id="practice-title">Engineering practice</h2><div class="grid">
+<article class="card"><span class="tag">DataTalks.Club coursework</span><h3>LLM Zoomcamp 2026</h3><p>ONNX MiniLM embeddings, text/vector/hybrid retrieval evaluation, and OpenTelemetry RAG spans persisted to SQLite. Includes agentic RAG and Kestra orchestration exercises.</p><div class="links"><a href="https://github.com/Jeremyt34t34t34/llm-zoomcamp-2026-homework">Code &amp; homework ↗</a><a href="https://github.com/Jeremyt34t34t34/llm-zoomcamp-2026-homework/tree/main/05-monitoring">Monitoring exercise ↗</a></div></article>
+<article class="card"><span class="tag">Course materials &amp; homework</span><h3>Data Engineering Zoomcamp</h3><p>Homework submissions for modules 1–4, including BigQuery partitioning/clustering SQL and an FHV dbt staging model. A learning repository rather than a standalone production platform.</p><div class="links"><a href="https://github.com/Jeremyt34t34t34/data-engineering-zoomcamp-learning/tree/main/homework-submissions">Homework submissions ↗</a><a href="https://github.com/Jeremyt34t34t34/data-engineering-zoomcamp-learning/blob/main/04-analytics-engineering/taxi_rides_ny/models/staging/stg_fhv_tripdata.sql">dbt model ↗</a></div></article></div></section>
+<section aria-labelledby="explore-title"><h2 id="explore-title">A path through the work</h2><p><strong>AI:</strong> retrieval, grounding, and evaluation. <strong>Data:</strong> warehouse SQL and staging models. <strong>FDE:</strong> reviewer setup, API interfaces, source evidence, and tool traces that make an application inspectable and demonstrable.</p></section>
+<section id="legacy" class="legacy" aria-labelledby="legacy-title"><span class="tag">CMU · 2023</span><h2 id="legacy-title">Legacy data storytelling</h2><p>Earlier <em>Telling Stories with Data</em> coursework: government debt visualizations, Tableau design critique, and a Boston crime data story.</p><div class="links"><a href="archive/legacy/README.html">Browse legacy collection</a><a href="Final_project_Jeremy.html">Boston crime project</a><a href="archive/legacy/course-portfolio.html">Original course portfolio</a></div></section>
+<footer>Public project work and coursework · <a href="https://github.com/Jeremyt34t34t34/Portfolio">Portfolio source</a></footer>
+</main>
+</body>
+</html>

@@ -1,72 +1,38 @@
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!
+# Haipei (Jeremy) Zhong
+### Applied AI · Data Engineering · Forward Deployed Engineering
 
-- Web page URL: https://jeremyt34t34t34.github.io/Portfolio/
-- This repository: https://github.com/Jeremyt34t34t34/Portfolio/
+I focus on connecting data, retrieval, and usable interfaces. This portfolio brings together an educational AI capstone, hands-on engineering coursework, and earlier data storytelling work.
 
-  
-# About me
-My name is Haipei Zhong, and I am currently a student in the Master of Information Systems Management (MISM) program at Carnegie Mellon University. I believe that mastering the art of data storytelling is crucial for making data-driven decisions and presenting information in a way that is both informative and accessible to various audiences.
+[GitHub profile](https://github.com/Jeremyt34t34t34) · [Portfolio website](https://jeremyt34t34t34.github.io/Portfolio/)
 
-# What I hope to learn
-1. Advanced Data Visualization Techniques
-- Mastering innovative visualization tools and software.
-- Creating insightful and intuitive visualizations for complex data sets.
+## Featured project
 
-2. Narrative and Storytelling Skills
-- Developing the ability to craft engaging and persuasive narratives with data.
-- Communicating insights effectively to both technical and non-technical audiences.
+### [Biomedical Dataset Discovery Assistant](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant)
+An educational capstone for finding public biomedical datasets from GDC and cBioPortal metadata.
 
-3. Practical Application of Theories
-- Applying theoretical knowledge to real-world scenarios and case studies.
-- Enhancing skills in data-driven storytelling for business decisions.
+- Normalized dataset catalog with source evidence and explicit limitations.
+- Constrained keyword retrieval with TF-IDF cosine reranking; optional live OpenAI RAG.
+- Streamlit reviewer UI, HTTP API, tool traces, feedback collection, and evaluation workflows.
 
-4. Ethical Considerations in Data Presentation
-- Learning about the ethics of data representation.
-- Ensuring integrity and avoiding misleading interpretations in data storytelling.
+**Scope:** study-level metadata; the local tool workflow is deterministic. Variant-positive patient counts are not verified, and this is not a production cloud deployment.
 
-5. Peer Learning and Feedback
-- Engaging with fellow students for idea sharing and collaborative learning.
-- Valuing constructive feedback to refine data storytelling techniques.
+[Code](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant) · [Reviewer walkthrough](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant/blob/main/docs/reviewer_walkthrough.md) · [Retrieval implementation](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant/blob/main/src/retriever.py)
 
+## Engineering practice
 
-# Portfolio
+| Repository | Concrete examples | Context |
+| --- | --- | --- |
+| [LLM Zoomcamp 2026 Homework](https://github.com/Jeremyt34t34t34/llm-zoomcamp-2026-homework) | ONNX MiniLM embeddings; text/vector/hybrid retrieval evaluation; OpenTelemetry RAG spans persisted to SQLite | DataTalks.Club coursework, with agentic RAG and Kestra orchestration exercises |
+| [Data Engineering Zoomcamp Learning](https://github.com/Jeremyt34t34t34/data-engineering-zoomcamp-learning/tree/main/homework-submissions) | BigQuery partitioning/clustering SQL; FHV dbt staging model; homework answers and notes for modules 1–4 | Course materials plus homework submissions; not a standalone production platform |
 
-## Assignment: [Visualizing government debt](Visualizing-government-debt.md)
-### 1.First chart: [government debt visualization](chart.html)
-### 2. Heatmap: [Heatmap](heatmap.html)
-<div class='tableauPlaceholder' id='viz1699249448491' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='Dashboard 1' src='https://public.tableau.com/static/images/Bo/Book1_16992494365390/Dashboard1/1_rss.png' style='border: none' />
-    </a>
-  </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-    <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='name' value='Book1_16992494365390/Dashboard1' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/Bo/Book1_16992494365390/Dashboard1/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='zh-CN' />
-    <param name='filter' value='publish=yes' />
-  </object>
-</div>
+## What to explore
 
-### 3. Third  Visualization: [map](map.html)
+- **AI:** inspect retrieval, grounding, and evaluation in the biomedical capstone.
+- **Data:** review the [warehouse SQL](https://github.com/Jeremyt34t34t34/data-engineering-zoomcamp-learning/blob/main/homework-submissions/module-03-data-warehouse/homework.sql) and [dbt staging model](https://github.com/Jeremyt34t34t34/data-engineering-zoomcamp-learning/blob/main/04-analytics-engineering/taxi_rides_ny/models/staging/stg_fhv_tripdata.sql).
+- **FDE:** follow the capstone's reviewer setup, API interface, source evidence, and tool trace to see how an application can be inspected and demonstrated.
 
+## Legacy: data storytelling at CMU
 
+My 2023 *Telling Stories with Data* assignments are preserved as earlier coursework.
 
-## Assignment 3 & 4: [Critique by Design with Tableau (MakeoverMonday)](Assignment3&4.md)
-
-
-## Final project: [Final_project](Final_project_Jeremy.md)
-[Part1 and Part 2](Final_project_Jeremy.md)
-
-[Final Part 3](Part3.md)
+[Browse the legacy collection](archive/legacy/README.md) · [Original course portfolio](archive/legacy/course-portfolio.md)
