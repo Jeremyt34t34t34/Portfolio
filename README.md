@@ -1,11 +1,11 @@
 # Haipei (Jeremy) Zhong
 ### Applied AI · Data Engineering · Forward Deployed Engineering
 
-I focus on connecting data, retrieval, and usable interfaces. This portfolio brings together an educational AI capstone, hands-on engineering coursework, and earlier data storytelling work.
+I focus on connecting data, retrieval, and usable interfaces. This portfolio brings together an educational AI capstone, a team hackathon project, hands-on engineering coursework, and earlier data storytelling work.
 
 [GitHub profile](https://github.com/Jeremyt34t34t34) · [Portfolio website](https://jeremyt34t34t34.github.io/Portfolio/)
 
-## Featured project
+## Featured projects
 
 ### [Biomedical Dataset Discovery Assistant](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant)
 An educational capstone for finding public biomedical datasets from GDC and cBioPortal metadata.
@@ -17,6 +17,17 @@ An educational capstone for finding public biomedical datasets from GDC and cBio
 **Scope:** study-level metadata; the local tool workflow is deterministic. Variant-positive patient counts are not verified, and this is not a production cloud deployment.
 
 [Code](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant) · [Reviewer walkthrough](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant/blob/main/docs/reviewer_walkthrough.md) · [Retrieval implementation](https://github.com/Jeremyt34t34t34/biomedical-dataset-discovery-assistant/blob/main/src/retriever.py)
+
+### [ClaimDrift](https://github.com/Jeremyt34t34t34/ClaimDrift)
+A team project submitted to the **Google Cloud Rapid Agent Hackathon, Elastic Track**, exploring how scientific claims change between preprints and published papers.
+
+- bioRxiv, medRxiv, and Crossref ingestion with Elasticsearch storage.
+- Google ADK orchestration of claim extraction, drift analysis, citation discovery, notification, and memory synthesis.
+- Python backend with REST/SSE interfaces and a Next.js dashboard.
+
+**Context:** hackathon team work. The repository contains deployment configurations and reports a deployed demo; current service availability has not been independently verified here. Component descriptions refer to the team system, not sole authorship.
+
+[Code & setup](https://github.com/Jeremyt34t34t34/ClaimDrift) · [Backend](https://github.com/Jeremyt34t34t34/ClaimDrift/tree/main/apps/bff) · [Orchestration code](https://github.com/Jeremyt34t34t34/ClaimDrift/blob/main/agents/supervisor_agent/agent.py)
 
 ## Engineering practice
 
